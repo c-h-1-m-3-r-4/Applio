@@ -9,7 +9,6 @@ torch
 librosa
 wget
 onnxruntime
-onnxruntime
 pydantic==2.8.2
 fastapi==0.112.0
 starlette==0.37.2
